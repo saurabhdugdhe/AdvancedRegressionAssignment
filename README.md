@@ -27,7 +27,7 @@ They can accordingly manipulate the strategy of the firm and concentrate on area
 
 ## Data 
 1. `train.csv` - Housing dataset
-2. `data_description.txt` - Data dictionary for the dataset `day.csv`
+2. `data_description.txt` - Data dictionary for the dataset `train.csv`
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
